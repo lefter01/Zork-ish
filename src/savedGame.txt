@@ -1,0 +1,3 @@
+go east
+go south
+get key
